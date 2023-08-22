@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.194" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="This is to test background" name="Engineering College" time="0.022">
+<system-out><![CDATA[
+Given User should have passed High School...................................passed
+Given User should have passed High Secondary School.........................passed
+Given Joined the Engineering Course.........................................passed
+When Cleared the exams......................................................passed
+Then Become an Engineer.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This is to test background" name="Medical College" time="0.001">
+<system-out><![CDATA[
+Given User should have passed High School...................................passed
+Given User should have passed High Secondary School.........................passed
+Given Joined the Medical Course.............................................passed
+When Cleared the examinations...............................................passed
+Then Become a Doctor........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
